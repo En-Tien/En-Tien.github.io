@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://En-Tien.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://En-Tien.github.io/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://En-Tien.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://En-Tien.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://En-Tien.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://En-Tien.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://En-Tien.github.io/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://En-Tien.github.io/zh-tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://En-Tien.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://En-Tien.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://En-Tien.github.io/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://En-Tien.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
